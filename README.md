@@ -1,4 +1,4 @@
-# 🌟 Starbot
+# 🌟 Starbot [Testing Slack comnands]
 
 ![Starbot](https://heroku-www-files.s3.amazonaws.com/starbot/starbot-banner.png)
 
